@@ -28,11 +28,12 @@ It provides a *seamless live chatting experience* with smooth animations, clean 
 
 ---
 
-## 🎥 Demo Preview  
+## 🎥 Website Preview  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600" alt="Chat Demo"/>
-</p>
+<img width="1914" height="863" alt="Screenshot 2025-08-24 182024" src="https://github.com/user-attachments/assets/16172480-0fc9-4456-9a2a-65c9dc181e50" />
+<img width="1714" height="840" alt="Screenshot 2025-06-20 185035" src="https://github.com/user-attachments/assets/8fd96b80-3024-424d-82f2-eb7bf06fcddb" />
+<img width="1599" height="845" alt="Screenshot 2025-06-20 184119" src="https://github.com/user-attachments/assets/807757a9-48ce-4c38-816c-1941a4f09ead" />
+<img width="1599" height="845" alt="Screenshot 2025-06-20 184119" src="https://github.com/user-attachments/assets/fea36348-592e-4ef9-8422-bd02fd6b70ab" />
 
 ---
 
